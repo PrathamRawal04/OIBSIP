@@ -1,8 +1,11 @@
+
+
+# Python Task 2:BMI-Calculator 
 Advanced BMI Calculator and Health Tracker
 
 A desktop application built using Python, Tkinter, SQLite3, and Matplotlib. It calculates Body Mass Index (BMI), classifies health metrics based on WHO guidelines, stores historical entries per user, and visualizes progress trends over time.
 
-Features
+#Features
 
 Clean GUI Interface: Built with form controls and color-coded result feedback.
 
@@ -41,7 +44,7 @@ Install matplotlib using pip if it is not already installed:
 pip install matplotlib
 
 
-How to Run
+#How to Run
 
 Open your terminal or command prompt.
 
@@ -50,13 +53,14 @@ Navigate to the project folder:
 cd OIBSIP/Python-Task2-BMICalculator
 
 
-Run the application:
+#Run the application:
 
 python bmi_calculator.py
 
 
-Track: Python Programming
+#Track: Python Programming
 
 Task: Task 2 - BMI Calculator (Advanced Tier)
 
 Repository Name: OIBSIP
+
