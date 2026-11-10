@@ -1,4 +1,5 @@
 # Virtual Environment
+.vscode/
 venv/
 ENV/
 env/
@@ -9,5 +10,4 @@ __pycache__/
 *$py.class
 
 # IDE configurations
-.vscode/
 .idea/
